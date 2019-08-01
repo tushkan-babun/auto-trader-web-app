@@ -1,7 +1,7 @@
 # Auto Trader
----
+
 ## Table of Contents
----
+
 1. Description
 2. Installation
 3. Administration
@@ -12,7 +12,5 @@ The website is designed to be user-friendly and easy to use when it’s implem
 ---
 ### Installation
 
----
-### Administration
 
----
+### Administration
